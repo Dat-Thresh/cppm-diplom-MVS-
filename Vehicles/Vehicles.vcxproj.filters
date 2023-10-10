@@ -86,9 +86,6 @@
     <ClCompile Include="Broom.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>
-    <ClCompile Include="TS-Linked-list.cpp">
-      <Filter>Исходные файлы</Filter>
-    </ClCompile>
     <ClCompile Include="Registration.cpp">
       <Filter>Исходные файлы</Filter>
     </ClCompile>

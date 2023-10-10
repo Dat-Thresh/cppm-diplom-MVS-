@@ -154,7 +154,6 @@
     <ClCompile Include="Broom.cpp" />
     <ClCompile Include="Camel.cpp" />
     <ClCompile Include="Centaur.cpp" />
-    <ClCompile Include="TS-Linked-list.cpp" />
     <ClCompile Include="Eagle.cpp" />
     <ClCompile Include="Fast-Camel.cpp" />
     <ClCompile Include="landTS.cpp" />
